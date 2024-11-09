@@ -21,7 +21,6 @@ Hi! 👋<br>I’m an undergraduate Electronics Engineering student at the Univer
 
 ### ✍️ Todoist Stats:
 <!-- TODO-IST:START -->
-
 <!-- TODO-IST:END -->
 
 ---
